@@ -1,6 +1,3 @@
-%%
-addpath('../export_fig-master');
-
 %% Fig1
 figure;
 set(gcf,'Color',[1 1 1]);
