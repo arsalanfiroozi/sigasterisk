@@ -5,7 +5,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
-* [Code Examples](#Code Examples)
+* [Code Examples](#code-examples)
 * [Features](#features)
 * [Contact](#contact)
 
