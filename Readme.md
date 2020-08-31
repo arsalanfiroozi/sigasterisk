@@ -19,7 +19,7 @@ These functions were created mainly because of:
 ![Example screenshot](demo.png)
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
+Just add the package path.
 
 ## Code Examples
 Figure 1
