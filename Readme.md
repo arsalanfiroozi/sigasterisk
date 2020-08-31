@@ -70,4 +70,4 @@ To-do list:
 * Different height used if the function for a column is used twice.
 
 ## Contact
-Created by [@arsalan.firoozi](https://ee.sharif.ir/~firoozi.arsalan) - feel free to contact me!
+Created by [@arsalanfiroozi](https://ee.sharif.ir/~firoozi.arsalan) - feel free to contact me!
