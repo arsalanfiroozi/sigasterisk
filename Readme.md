@@ -1,5 +1,5 @@
 # Sigasterisk
-> Implementing how significant two bars at a grouped bar plot is by adding '*' with [the shown](#screenshots) style.
+> Implementing how significant two bars at a grouped bar plot by adding '*' with [the shown](#screenshots) style.
 
 ## Table of contents
 * [General info](#general-info)
