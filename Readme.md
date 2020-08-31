@@ -11,8 +11,8 @@
 
 ## General info
 These functions were created mainly because of:
-1. Not supporting matlab functions for asteriks in order to show how significant two bar is
-2. Not supporting matlab functions for adding error to grouped bar plot 
+1. Not supporting Matlab functions for asterisks to show how significant two bar is
+2. Not supporting Matlab functions for adding error to grouped bar plots
 3. Not supporting similar shared functions adding asterisks for different bars in different groups 
 
 ## Screenshots
@@ -67,7 +67,7 @@ export_fig("Fig4.png",'-r600');
 ```
 
 ## Features
-* You can change all dimensions which is used to plot by optional arguments
+* You can change all dimensions which are used to plot by optional arguments
 
 To-do list:
 * Different height used if the function for a column is used twice.
