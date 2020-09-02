@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-The functions in this package do:
+The functions in this package:
 1. Add lines and asterisks for bars in a bar plot.
 2. Add lines and asterisks for bars within a group in a grouped bar plot.
 3. Add lines and asterisks for bars between groups in a grouped bar plot.
