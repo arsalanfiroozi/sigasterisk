@@ -1,7 +1,7 @@
 function [] = sigasterisk(xbar, ybar, xgroup, ygroup, str_show, bars, varargin)
     % Inputs are: 1.Xbar 2.Ybar 3.Xgroup 4.Ygroup, 5.String 6.Bar's Data
-    % 7.Distance1(Optional) 8.Distance2(Optional) 9.Threshold3(Optional)
-    % 10.Threshold4(Optional)
+    % 7.Errors(Optional) 8.Distance1(Optional) 9.Distance2(Optional) 10.Threshold3(Optional)
+    % 11.Position(Optional)
     %
     % Warning: Do not use categorical bar plot before this function!
     % Instead use this structure:
